@@ -9,7 +9,7 @@
 - I use Arch BTW! (Larp Larp Larp)
 - Using AI because I'm lazy asf
 - I do discord bots, minecraft plugins (and resource packs) and web apps
-- Netwoirking, System Admin, Linux enthusiast
+- Networking, System Admin, Linux enthusiast
 
 ---
 
