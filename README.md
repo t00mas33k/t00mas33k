@@ -31,6 +31,6 @@
 ## Hit me up
 
 - **E-mail:** [t00mas33k@gmail.com](mailto:t00mas33k@gmail.com)
-- **Portfolio:** [t00mas33k.vercel.app](https://t00mas33k.vercel.app)
+- **Portfolio:** [t00mas33k.site](https://t00mas33k.site)
 
 </div>
